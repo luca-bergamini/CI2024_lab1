@@ -1,1 +1,3 @@
 # CI2024_lab1
+
+In this laboratory we are going to use different algorithms to resolve the set cover problem. I implemented the greedy and hill climbing algorithm. The hill climbing is developed in two different ways, one using a single tweak mutation and one using a multiple tweak mutation. In particular, with the single-tweak we are going to mutate one single element of the solution, on the other hand with the multi-tweak we are going to mutate multiple elements of the solution. With the greedy one I obtain the best results, otherwise with hill climbing I obtain some worst results.
