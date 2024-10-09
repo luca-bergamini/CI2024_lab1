@@ -38,3 +38,5 @@ In this laboratory we are going to use different algorithms to resolve the set c
 | 100_000 | 10_000 | .3 | 100 | 410_068_612.21
 
 We can conclude that the Greedy algorithm achieves better results in comparison with Hill Climbing. That's because the greedy algorithm for each iteration takes the set that covers the greatest number of elements; otherwise, Hill Climbing for each iteration explores numerous nearby solutions, by doing this, it can get stuck in a local optimum.
+
+Finding a great way to develop the greedy algorithm I discuss with @YounessB1.
